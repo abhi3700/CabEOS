@@ -1,2 +1,5 @@
 # CabEOS
-A Decentralized Ride Hailing service on EOS Blockchain
+A Decentralized Cab Service on EOS Blockchain
+
+## Documentation
+## [Smart Contracts](./contracts)
